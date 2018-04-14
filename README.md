@@ -39,3 +39,6 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 ### Media
 ```markdown
+Source of News from title our headline Page 1 :
+" Lewat Kearifan Local Siap Pimpin Sulsel "
+[Link](https://372384703176486342.weebly.com/)
