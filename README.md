@@ -41,4 +41,4 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 ```markdown
 Source of News from title our headline Page 1 :
 " Lewat Kearifan Local Siap Pimpin Sulsel "
-[https://372384703176486342.weebly.com/](https://372384703176486342.weebly.com/)
+[Headline](https://372384703176486342.weebly.com/)
