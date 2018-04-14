@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## Welcome to our Media as source of News and Informatioan on Github Pages
+# How To ?
 
 You can use the [editor on GitHub](https://github.com/pusatdata/media/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
