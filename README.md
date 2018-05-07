@@ -43,3 +43,36 @@ Source of News from title our headline Page 1 :
 # PHINISI NO.48 TH XXVIII MEI 2016
 [ Lewat Kearifan Local Siap Pimpin Sulsel] (https://372384703176486342.weebly.com/)
 ```
+</ref>
+
+{| class="sortable wikitable"
+|-
+! Name  || Population<br>Census 2010
+|-
+| [[Liukang Tangaya]] ||align="right"|18,318
+|-
+| [[Liukang Kalmas]] ||align="right"|12,920
+|-
+| [[Liukang Tupabbiring]] ||align="right"|16,895
+|-
+| [[Liukang Tupabbiring Utara]] ||align="right"|12,343
+|-
+| [[Pangkajene district]] ||align="right"|41,701 
+|-
+| [[Minasatene]] ||align="right"|32,970 
+|-
+| [[Balocci]] ||align="right"|15,450
+|-
+| [[Tondong Tallasa]] ||align="right"|8,637
+|-
+| [[Bungoro]] ||align="right"|38,851
+|-
+| [[Labakkang]] ||align="right"|43,730
+|-
+| [[Ma'rang]] ||align="right"|29,915
+|-
+| [[Segiri]] ||align="right"|20,037
+|-
+| [[Mandalle]] ||align="right"|13,870
+|}
+
