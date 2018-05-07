@@ -43,8 +43,8 @@ Source of News from title our headline Page 1 :
 # PHINISI NO.48 TH XXVIII MEI 2016
 [ Lewat Kearifan Local Siap Pimpin Sulsel] (https://372384703176486342.weebly.com/)
 ```
-</ref>
 
+<ref>
 {| class="sortable wikitable"
 |-
 ! Name  || Population<br>Census 2010
@@ -75,4 +75,4 @@ Source of News from title our headline Page 1 :
 |-
 | [[Mandalle]] ||align="right"|13,870
 |}
-
+</ref>
